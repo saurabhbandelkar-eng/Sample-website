@@ -1,0 +1,406 @@
+{
+  "slug": "powai-smile",
+  "nicheType": "dental",
+  "clinicName": "Powai Smile Care",
+  "clinicShortName": "Powai Smile Care",
+  "doctorName": "Dr. Aarav Joshi",
+  "doctorCredentials": "BDS, MDS (Conservative Dentistry & Endodontics)",
+  "nicheLabel": "Dental clinic",
+  "schemaType": "Dentist",
+  "medicalSpecialty": "Dentistry",
+  "siteUrl": "https://powai-smile.demo.in",
+  "phoneDisplay": "98200 12345",
+  "phoneIntl": "+919820012345",
+  "email": "care@powai-smile.demo.in",
+  "address": "Ground Floor, Lake View Plaza, G.V. Gokhale Road, Powai, Mumbai, Maharashtra 400076",
+  "locality": "Powai",
+  "city": "Mumbai",
+  "pincode": "400076",
+  "landmark": "Near Powai Lake",
+  "directions": "Ground-floor access with parking. 5 minutes from Powai Lake and 10 minutes from SEEPZ. Landmark: Lake View Plaza, opposite Powai Lake.",
+  "areasServed": [
+    "Powai",
+    "Hiranandani Gardens",
+    "SEEPZ",
+    "Marol",
+    "Mhada",
+    "IIT Bombay",
+    "Andheri East"
+  ],
+  "latitude": 19.1316,
+  "longitude": 72.9147,
+  "brandColors": {
+    "primary": "#3B5E45",
+    "accent": "#A9843B"
+  },
+  "heroHeading": "Specialist dental care in Powai — painless, transparent prices",
+  "heroSubhead": "Boutique specialist care: single-sitting root canals, implants, zirconia crowns and clear aligners. See every price before you book.",
+  "hours": [
+    {
+      "days": "Tuesday–Sunday",
+      "open": "10:30",
+      "close": "14:30",
+      "openLabel": "10:30 AM",
+      "closeLabel": "2:30 PM",
+      "second": {
+        "open": "17:30",
+        "close": "21:30",
+        "openLabel": "5:30 PM",
+        "closeLabel": "9:30 PM"
+      }
+    },
+    {
+      "days": "Monday",
+      "closed": true
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Painless single-visit root canal",
+      "from": 4500,
+      "to": 7500,
+      "iconPath": "crown",
+      "description": "Removes the infected nerve and saves the tooth. Over 90% of routine cases finish in one 45–60 minute sitting with electronic apex locators and rotary files.",
+      "levels": [
+        {
+          "label": "Standard single-sitting",
+          "from": 4500,
+          "to": 6000,
+          "note": "Front tooth / single canal. Painless local anaesthesia."
+        },
+        {
+          "label": "Molar (multi-canal)",
+          "from": 6000,
+          "to": 7500,
+          "note": "2 sittings if needed. Crown quoted separately."
+        },
+        {
+          "label": "Same-day emergency",
+          "from": 5500,
+          "to": 7500,
+          "note": "Priority slot within hours. Relief starts today."
+        }
+      ],
+      "badge": "Single-Sitting"
+    },
+    {
+      "name": "Root canal + zirconia crown",
+      "from": 12000,
+      "to": 18000,
+      "iconPath": "crown",
+      "description": "The full solution — root canal treatment plus a monolithic zirconia crown. One price, one plan, no dark metal line.",
+      "levels": [
+        {
+          "label": "Single tooth + zirconia crown",
+          "from": 12000,
+          "to": 15000,
+          "note": "All-inclusive. 1–2 visits."
+        },
+        {
+          "label": "Premium monolithic zirconia",
+          "from": 15000,
+          "to": 18000,
+          "note": "Lifelike translucency, lifetime durability."
+        }
+      ],
+      "badge": "All-Inclusive"
+    },
+    {
+      "name": "Titanium dental implant",
+      "from": 25000,
+      "to": 60000,
+      "iconPath": "implant",
+      "description": "Replaces a missing tooth with certified grade-4 titanium and a natural zirconia crown. Looks, feels and functions like your own tooth.",
+      "levels": [
+        {
+          "label": "Standard titanium + crown",
+          "from": 25000,
+          "to": 35000,
+          "note": "3–4 months, 2–3 visits. Digital scan included."
+        },
+        {
+          "label": "Premium implant + zirconia crown",
+          "from": 35000,
+          "to": 45000,
+          "note": "All-inclusive. Immediate loading where possible."
+        },
+        {
+          "label": "Implant + bone graft",
+          "from": 45000,
+          "to": 60000,
+          "note": "For thin bone. CBCT scan included in the quote."
+        }
+      ],
+      "badge": "Grade-4 Titanium"
+    },
+    {
+      "name": "Zirconia crowns & caps",
+      "from": 10000,
+      "to": 18000,
+      "iconPath": "crown",
+      "description": "Metal-free caps with lifelike translucency, precision fit and no dark line — strong enough for back teeth, beautiful enough for front teeth.",
+      "levels": [
+        {
+          "label": "Monolithic zirconia",
+          "from": 10000,
+          "to": 14000,
+          "note": "Strong, natural-looking, no metal line."
+        },
+        {
+          "label": "Premium translucent zirconia",
+          "from": 14000,
+          "to": 18000,
+          "note": "Best shade match for front teeth."
+        }
+      ],
+      "badge": "Metal-Free"
+    },
+    {
+      "name": "Clear invisible aligners",
+      "from": 60000,
+      "to": 90000,
+      "iconPath": "braces",
+      "description": "Straighten crooked or gapped teeth discreetly. Custom 3D digital scans and a plan you can see before treatment starts.",
+      "levels": [
+        {
+          "label": "Standard aligners",
+          "from": 60000,
+          "to": 75000,
+          "note": "12–24 months. Digital scan and plan included."
+        },
+        {
+          "label": "Premium aligners + retainers",
+          "from": 75000,
+          "to": 90000,
+          "note": "Includes retainers to keep the result."
+        }
+      ],
+      "badge": "Invisible"
+    },
+    {
+      "name": "Wisdom tooth removal",
+      "from": 2500,
+      "to": 4000,
+      "iconPath": "extraction",
+      "description": "Gentle, minimally traumatic removal of impacted third molars with modern surgical guidelines and a swift 48-hour recovery.",
+      "levels": [
+        {
+          "label": "Simple extraction",
+          "from": 2500,
+          "to": 3000,
+          "note": "Quick procedure, local anaesthesia."
+        },
+        {
+          "label": "Impacted / surgical",
+          "from": 3000,
+          "to": 4000,
+          "note": "Bone removal included. CBCT quoted if needed."
+        }
+      ],
+      "badge": "Oral Surgery"
+    },
+    {
+      "name": "Emergency same-day relief",
+      "from": 500,
+      "to": 1500,
+      "iconPath": "extraction",
+      "description": "Immediate same-day appointments for throbbing toothache, cracked enamel, abscess and dental trauma.",
+      "levels": [
+        {
+          "label": "Consultation + pain relief",
+          "from": 500,
+          "to": 1000,
+          "note": "Same-day slot. Call or message by morning."
+        },
+        {
+          "label": "Emergency procedure",
+          "from": 1000,
+          "to": 1500,
+          "note": "Drainage, temporary filling, immediate relief."
+        }
+      ],
+      "badge": "Same-Day"
+    },
+    {
+      "name": "Smile makeover & veneers",
+      "from": 15000,
+      "to": 40000,
+      "iconPath": "sparkle",
+      "description": "Ultra-thin porcelain veneers, shade correction, diastema closure and gum contouring for your dream smile.",
+      "levels": [
+        {
+          "label": "Composite bonding",
+          "from": 15000,
+          "to": 25000,
+          "note": "1–2 visits. Chip and gap fixes."
+        },
+        {
+          "label": "Porcelain veneers (per tooth)",
+          "from": 18000,
+          "to": 25000,
+          "note": "Ultra-thin, stain-resistant."
+        },
+        {
+          "label": "Full smile makeover",
+          "from": 30000,
+          "to": 40000,
+          "note": "Shade correction + veneers + whitening."
+        }
+      ],
+      "badge": "Cosmetic Design"
+    },
+    {
+      "name": "Laser teeth whitening",
+      "from": 6000,
+      "to": 12000,
+      "iconPath": "sparkle",
+      "description": "Safely brightens coffee, tea and tobacco stains by up to 6 shades in a single comfortable appointment.",
+      "levels": [
+        {
+          "label": "Take-home kit",
+          "from": 6000,
+          "to": 8000,
+          "note": "Custom trays, 10–14 days at home."
+        },
+        {
+          "label": "In-office laser",
+          "from": 8000,
+          "to": 12000,
+          "note": "60 minutes. Up to 6 shades lighter."
+        }
+      ],
+      "badge": "45 Minutes"
+    },
+    {
+      "name": "Scaling & deep polishing",
+      "from": 700,
+      "to": 2500,
+      "iconPath": "sparkle",
+      "description": "Removes plaque, tartar and stains. Polishing smooths the teeth so stains stay away longer.",
+      "levels": [
+        {
+          "label": "Standard scaling",
+          "from": 700,
+          "to": 1500,
+          "note": "30–40 minutes. Routine cleaning."
+        },
+        {
+          "label": "Deep scaling & polish",
+          "from": 1800,
+          "to": 2500,
+          "note": "60 minutes. Heavy tartar and staining."
+        }
+      ],
+      "badge": "30 Minutes"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a root canal completed in a single sitting without pain?",
+      "a": "Yes. Over 90% of routine cases finish in one 45–60 minute sitting. Electronic apex locators and slow-infusion local anaesthesia keep the whole treatment painless."
+    },
+    {
+      "q": "Do you take emergency walk-ins?",
+      "a": "Yes. We keep same-day slots for throbbing toothache, abscess, broken crowns and dental trauma. Call or message us by morning and we will fit you in that day."
+    },
+    {
+      "q": "Why a specialist clinic instead of a general dentist?",
+      "a": "Complex work — implants, root canals, veneers — is done by MDS postgraduate specialists in each discipline, not general dentists. You get hospital-level specialist care."
+    },
+    {
+      "q": "How long do implants take?",
+      "a": "Usually 3–4 months and 2–3 visits. We confirm the timeline and a written cost before anything starts."
+    },
+    {
+      "q": "Are zirconia crowns as strong as metal?",
+      "a": "Yes. Monolithic zirconia is strong, has no dark line, and matches the translucency of natural teeth — the best of both worlds."
+    },
+    {
+      "q": "Do clear aligners hurt?",
+      "a": "You feel mild pressure for a few days after each tray change. Most patients adjust within a week and never need pain relief."
+    },
+    {
+      "q": "What is included in the price?",
+      "a": "The listed price covers the procedure, materials and follow-up. Digital X-rays are included with treatment — no hidden sterilisation charges."
+    },
+    {
+      "q": "Do you treat children?",
+      "a": "Yes. Gentle paediatric check-ups and early care from age 7. We keep visits short and friendly."
+    }
+  ],
+  "costFaqs": [
+    {
+      "q": "Why do prices vary by case?",
+      "a": "Your exact cost depends on the tooth, the number of canals or implants, and the materials we choose together. The range covers the common cases."
+    },
+    {
+      "q": "Are X-rays included?",
+      "a": "Digital X-rays are included with treatment. CBCT scans are quoted separately when a case needs them."
+    },
+    {
+      "q": "Do you offer EMI?",
+      "a": "Yes. 0% EMI in 3, 6 and 9 months on treatments above ₹10,000 with a simple approval process."
+    },
+    {
+      "q": "What is the same-day emergency price for?",
+      "a": "Priority appointment within hours plus the relief procedure — drainage, temporary filling or pain relief. No waiting, no extra call-out charges."
+    },
+    {
+      "q": "Can I get a written estimate?",
+      "a": "Yes. You get a line-by-line written estimate before treatment starts. No surprises, ever."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Acute toothache at 8 pm. The clinic gave me a same-day emergency slot and the pain was gone within the hour. Transparent price, no surprises."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Single-sitting RCT in 45 minutes — zero pain. The specialist explained every step and the total cost upfront."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Zirconia crowns for my upper teeth. The shade matches my natural teeth and there is no dark line. Worth every rupee."
+    }
+  ],
+  "trustPoints": [
+    "Hospital-level MDS specialist care — not general dentists for complex work",
+    "Single-sitting painless root canals with electronic apex locators",
+    "7-step sterilisation, sealed UV pouches, hospital-grade protocols",
+    "Low-radiation digital X-rays included with treatment",
+    "Same-day emergency slots — call or message by morning"
+  ],
+  "photos": {
+    "doctor": "doctor.webp",
+    "clinic": "hero.webp",
+    "hero": "hero.webp",
+    "tour": [
+      "tour-1.webp",
+      "tour-2.webp",
+      "tour-3.webp",
+      "tour-4.webp",
+      "tour-5.webp"
+    ],
+    "contact": "contact.webp",
+    "treatments": [
+      "t-rct.webp",
+      "t-crown.webp",
+      "t-implant.webp",
+      "t-crown2.webp",
+      "t-aligners.webp",
+      "t-wisdom.webp",
+      "t-emergency.webp",
+      "t-makeover.webp",
+      "t-whitening.webp",
+      "t-scaling.webp"
+    ],
+    "extras": [
+      "t-xray.webp",
+      "t-extract.webp"
+    ]
+  }
+}

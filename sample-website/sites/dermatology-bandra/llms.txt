@@ -1,0 +1,62 @@
+# Bandra Skin & Hair Clinic
+
+> Dermatology & hair clinic in Bandra West, Mumbai (PIN 400050). Consultation by an MD dermatologist. Fixed consultation fees, per-session prices and clear treatment plans — no surprises.
+
+## Who we are
+Bandra Skin & Hair Clinic is a Dermatology & hair clinic in Bandra West, Mumbai. 5 minutes from Bandra railway station and 10 minutes from the Bandra-Worli Sea Link. Landmark: Silver Spring building on SV Road.
+Treatments are led by Dr. Sneha Rao, MD Dermatology, Fellowship in Aesthetic Medicine.
+
+## Treatments & typical prices (INR)
+| Treatment | Typical range |
+| --- | --- |
+| Skin consultation | ₹500 – ₹1,500 |
+| Acne & acne scars | ₹2,000 – ₹24,000 |
+| Pigmentation & dark spots | ₹2,500 – ₹15,000 |
+| Laser hair removal | ₹1,500 – ₹30,000 |
+| Chemical peels | ₹1,500 – ₹15,000 |
+| Hair fall & hair regrowth (PRP) | ₹4,000 – ₹24,000 |
+| Warts, moles & skin tags | ₹1,500 – ₹8,000 |
+| Eczema, psoriasis & scalp care | ₹2,000 – ₹6,000 |
+| Anti-ageing — botox & fillers | ₹15,000 – ₹40,000 |
+
+## Costs
+Every treatment page shows a transparent price range. An interactive cost estimator on /cost.html lets patients pick a treatment and a complexity/package option and shows the typical range immediately, with a pre-filled WhatsApp message. Written estimates are provided before treatment starts.
+
+## Location & hours
+- Address: Shop 3, Silver Spring, SV Road, Bandra West, Mumbai, Maharashtra 400050
+- Landmark: Near Bandra railway station
+- Areas served: Bandra, Bandra West, Hill Road, Bandstand, Khar, Santacruz, Matunga, Sion
+- Hours: Monday–Saturday 10:00–19:00 · Sunday 10:00–15:00
+
+## Contact
+- Phone: 98200 45678 (+919820045678)
+- WhatsApp: 98200 45678
+- Email: care@bandra-skin-hair.demo.in
+- Website: https://bandra-skin-hair.demo.in
+
+## How to book
+1. See the price range for your treatment on /treatments.html or /cost.html.
+2. Tap the WhatsApp button — the message is pre-filled with your selected range.
+3. Or call 98200 45678 to confirm a slot.
+
+## FAQ (short answers)
+Q: How many sessions will I need?
+A: It depends on the problem. Acne usually needs 4–6 peels. Pigmentation takes 4–8 sessions. Laser hair removal needs 6–8 sessions spaced 4–6 weeks. Your doctor gives you a number at the first consultation.
+
+Q: Is it safe for dark Indian skin?
+A: Yes. We choose peels and laser settings for Fitzpatrick IV–V skin — the safest approach for Indian skin tones.
+
+Q: Will it scar?
+A: No. These treatments are designed to heal the skin. When a mole or wart is removed, we take extra care to minimise marks.
+
+Q: Is there any downtime?
+A: Light peels flake for 2–3 days. Medium peels need 3–5 days of heal time. Laser hair removal has no downtime.
+
+Q: When will I see results?
+A: Pigmentation starts fading in 4–8 weeks. Hair gets thicker in 3–6 months with PRP. Your doctor sets a realistic timeline at the start.
+
+Q: Can I wear makeup after a peel?
+A: Wait 24 hours after light peels. We give written after-care with everything you need to know.
+
+## About this site
+Sample site built as a demonstration by Saurabh Bandelkar. Not operated by a real clinic. All reviews are sample reviews — placeholders. Photos are stock images. Prices are typical Mumbai ranges for demonstration purposes only.

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo 'static site — no build step'",
+  "outputDirectory": "sites/powai-smile",
+  "cleanUrls": true,
+  "trailingSlash": true
+}

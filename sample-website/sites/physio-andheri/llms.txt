@@ -1,0 +1,62 @@
+# Andheri Physio Care
+
+> Physiotherapy centre in Andheri East, Mumbai (PIN 400069). One-to-one sessions with a certified physiotherapist. Home visits available. See session and package prices before you book.
+
+## Who we are
+Andheri Physio Care is a Physiotherapy centre in Andheri East, Mumbai. 5 minutes from Andheri railway station and 8 minutes from Andheri airport. Landmark: Indira Tower, opposite the police station.
+Treatments are led by Dr. Rajesh Menon, MPT (Musculoskeletal Sciences), Certified Sports Physiotherapist.
+
+## Treatments & typical prices (INR)
+| Treatment | Typical range |
+| --- | --- |
+| First assessment | ₹800 – ₹1,800 |
+| Back pain & spine care | ₹800 – ₹18,000 |
+| Neck & shoulder pain | ₹800 – ₹18,000 |
+| Sports injury rehab | ₹1,200 – ₹28,000 |
+| Post-surgery rehab | ₹1,200 – ₹28,000 |
+| Home visits | ₹900 – ₹3,500 |
+| Joint stiffness & arthritis | ₹800 – ₹10,000 |
+| Posture & ergonomics | ₹1,500 – ₹3,000 |
+| Massage & soft tissue therapy | ₹1,000 – ₹6,000 |
+
+## Costs
+Every treatment page shows a transparent price range. An interactive cost estimator on /cost.html lets patients pick a treatment and a complexity/package option and shows the typical range immediately, with a pre-filled WhatsApp message. Written estimates are provided before treatment starts.
+
+## Location & hours
+- Address: 3rd Floor, Indira Tower, J.V. Road, Andheri East, Mumbai, Maharashtra 400069
+- Landmark: Near Andheri railway station
+- Areas served: Andheri, Andheri East, Andheri West, Vile Parle, Juhu, Marol, Kurla, SEEPZ
+- Hours: Monday–Saturday 08:00–20:00 · Sunday 09:00–14:00
+
+## Contact
+- Phone: 98200 78901 (+919820078901)
+- WhatsApp: 98200 78901
+- Email: care@andheri-physio.demo.in
+- Website: https://andheri-physio.demo.in
+
+## How to book
+1. See the price range for your treatment on /treatments.html or /cost.html.
+2. Tap the WhatsApp button — the message is pre-filled with your selected range.
+3. Or call 98200 78901 to confirm a slot.
+
+## FAQ (short answers)
+Q: How long until I can return to work?
+A: Most back pain patients return to desk work in 2–4 weeks with 6–8 sessions. Surgery rehab takes longer — we give you a week-by-week target.
+
+Q: Do you come home?
+A: Yes. We do home visits 7 days a week in Andheri and nearby areas. Same physiotherapist, same treatment — we bring the equipment.
+
+Q: How long is one session?
+A: 45–60 minutes. The first assessment is 45 minutes. Home visits are 45–60 minutes depending on your condition.
+
+Q: Is physiotherapy painful?
+A: Some stretching is uncomfortable — that is normal. We work within your pain limit and explain every step. Pain should never be sharp.
+
+Q: When should I start after surgery?
+A: Usually 3–7 days after, with your surgeon's permission. We get the discharge summary and start safely.
+
+Q: How many sessions will I need?
+A: Most problems improve in 6–12 sessions. Chronic pain and post-surgery rehab need 12–20. You will know the plan at the first assessment.
+
+## About this site
+Sample site built as a demonstration by Saurabh Bandelkar. Not operated by a real clinic. All reviews are sample reviews — placeholders. Photos are stock images. Prices are typical Mumbai ranges for demonstration purposes only.

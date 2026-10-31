@@ -1,0 +1,63 @@
+# Powai Smile Care
+
+> Dental clinic in Powai, Mumbai (PIN 400076). Boutique specialist care: single-sitting root canals, implants, zirconia crowns and clear aligners. See every price before you book.
+
+## Who we are
+Powai Smile Care is a Dental clinic in Powai, Mumbai. Ground-floor access with parking. 5 minutes from Powai Lake and 10 minutes from SEEPZ. Landmark: Lake View Plaza, opposite Powai Lake.
+Treatments are led by Dr. Aarav Joshi, BDS, MDS (Conservative Dentistry & Endodontics).
+
+## Treatments & typical prices (INR)
+| Treatment | Typical range |
+| --- | --- |
+| Painless single-visit root canal | ₹4,500 – ₹7,500 |
+| Root canal + zirconia crown | ₹12,000 – ₹18,000 |
+| Titanium dental implant | ₹25,000 – ₹60,000 |
+| Zirconia crowns & caps | ₹10,000 – ₹18,000 |
+| Clear invisible aligners | ₹60,000 – ₹90,000 |
+| Wisdom tooth removal | ₹2,500 – ₹4,000 |
+| Emergency same-day relief | ₹500 – ₹1,500 |
+| Smile makeover & veneers | ₹15,000 – ₹40,000 |
+| Laser teeth whitening | ₹6,000 – ₹12,000 |
+| Scaling & deep polishing | ₹700 – ₹2,500 |
+
+## Costs
+Every treatment page shows a transparent price range. An interactive cost estimator on /cost.html lets patients pick a treatment and a complexity/package option and shows the typical range immediately, with a pre-filled WhatsApp message. Written estimates are provided before treatment starts.
+
+## Location & hours
+- Address: Ground Floor, Lake View Plaza, G.V. Gokhale Road, Powai, Mumbai, Maharashtra 400076
+- Landmark: Near Powai Lake
+- Areas served: Powai, Hiranandani Gardens, SEEPZ, Marol, Mhada, IIT Bombay, Andheri East
+- Hours: Tuesday–Sunday 10:30 AM–2:30 PM & 5:30 PM–9:30 PM · Monday Closed
+
+## Contact
+- Phone: 98200 12345 (+919820012345)
+- WhatsApp: 98200 12345
+- Email: care@powai-smile.demo.in
+- Website: https://powai-smile.demo.in
+
+## How to book
+1. See the price range for your treatment on /treatments.html or /cost.html.
+2. Tap the WhatsApp button — the message is pre-filled with your selected range.
+3. Or call 98200 12345 to confirm a slot.
+
+## FAQ (short answers)
+Q: Is a root canal completed in a single sitting without pain?
+A: Yes. Over 90% of routine cases finish in one 45–60 minute sitting. Electronic apex locators and slow-infusion local anaesthesia keep the whole treatment painless.
+
+Q: Do you take emergency walk-ins?
+A: Yes. We keep same-day slots for throbbing toothache, abscess, broken crowns and dental trauma. Call or message us by morning and we will fit you in that day.
+
+Q: Why a specialist clinic instead of a general dentist?
+A: Complex work — implants, root canals, veneers — is done by MDS postgraduate specialists in each discipline, not general dentists. You get hospital-level specialist care.
+
+Q: How long do implants take?
+A: Usually 3–4 months and 2–3 visits. We confirm the timeline and a written cost before anything starts.
+
+Q: Are zirconia crowns as strong as metal?
+A: Yes. Monolithic zirconia is strong, has no dark line, and matches the translucency of natural teeth — the best of both worlds.
+
+Q: Do clear aligners hurt?
+A: You feel mild pressure for a few days after each tray change. Most patients adjust within a week and never need pain relief.
+
+## About this site
+Sample site built as a demonstration by Saurabh Bandelkar. Not operated by a real clinic. All reviews are sample reviews — placeholders. Photos are stock images. Prices are typical Mumbai ranges for demonstration purposes only.

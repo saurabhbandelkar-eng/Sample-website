@@ -1,0 +1,391 @@
+{
+  "slug": "dermatology-bandra",
+  "nicheType": "dermatology",
+  "clinicName": "Bandra Skin & Hair Clinic",
+  "clinicShortName": "Bandra Skin & Hair",
+  "doctorName": "Dr. Sneha Rao",
+  "doctorCredentials": "MD Dermatology, Fellowship in Aesthetic Medicine",
+  "nicheLabel": "Dermatology & hair clinic",
+  "schemaType": "MedicalClinic",
+  "medicalSpecialty": "Dermatology",
+  "siteUrl": "https://bandra-skin-hair.demo.in",
+  "phoneDisplay": "98200 45678",
+  "phoneIntl": "+919820045678",
+  "email": "care@bandra-skin-hair.demo.in",
+  "address": "Shop 3, Silver Spring, SV Road, Bandra West, Mumbai, Maharashtra 400050",
+  "locality": "Bandra West",
+  "city": "Mumbai",
+  "pincode": "400050",
+  "landmark": "Near Bandra railway station",
+  "directions": "5 minutes from Bandra railway station and 10 minutes from the Bandra-Worli Sea Link. Landmark: Silver Spring building on SV Road.",
+  "areasServed": [
+    "Bandra",
+    "Bandra West",
+    "Hill Road",
+    "Bandstand",
+    "Khar",
+    "Santacruz",
+    "Matunga",
+    "Sion"
+  ],
+  "latitude": 19.0576,
+  "longitude": 72.8374,
+  "brandColors": {
+    "primary": "#3B5E45",
+    "accent": "#A9843B"
+  },
+  "heroHeading": "Skin & hair treatment in Bandra — acne, pigmentation, hair fall, laser",
+  "heroSubhead": "Consultation by an MD dermatologist. Fixed consultation fees, per-session prices and clear treatment plans — no surprises.",
+  "hours": [
+    {
+      "days": "Monday–Saturday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "days": "Sunday",
+      "open": "10:00",
+      "close": "15:00"
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Skin consultation",
+      "from": 500,
+      "to": 1500,
+      "iconPath": "face",
+      "description": "The first step for any skin problem. We examine your skin, understand the cause and give a written plan.",
+      "levels": [
+        {
+          "label": "Follow-up consultation",
+          "from": 500,
+          "to": 800,
+          "note": "20–30 minutes."
+        },
+        {
+          "label": "Online consultation",
+          "from": 600,
+          "to": 900,
+          "note": "Video call, 20–30 minutes."
+        },
+        {
+          "label": "New patient — in-clinic",
+          "from": 800,
+          "to": 1200,
+          "note": "45–60 minutes. Includes skin analysis."
+        }
+      ],
+      "badge": "Diagnosis First"
+    },
+    {
+      "name": "Acne & acne scars",
+      "from": 2000,
+      "to": 24000,
+      "iconPath": "skin",
+      "description": "Acne is treated from the inside out — medicines, peels and scar treatment based on your skin type.",
+      "levels": [
+        {
+          "label": "Medication plan (topical + oral)",
+          "from": 2000,
+          "to": 4000,
+          "note": "Per month. Blood test included if needed."
+        },
+        {
+          "label": "Acne peel course (4–6 sessions)",
+          "from": 12000,
+          "to": 24000,
+          "note": "One session every 2–3 weeks."
+        },
+        {
+          "label": "Scar revision treatment",
+          "from": 8000,
+          "to": 12000,
+          "note": "Per session. Laser or microneedling."
+        }
+      ],
+      "badge": "Medication + Peel"
+    },
+    {
+      "name": "Pigmentation & dark spots",
+      "from": 2500,
+      "to": 15000,
+      "iconPath": "skin",
+      "description": "Melasma, tanning and post-acne marks. We treat the cause and fade the marks with peels and laser toning.",
+      "levels": [
+        {
+          "label": "Medication + strict sunscreen plan",
+          "from": 2500,
+          "to": 4000,
+          "note": "The foundation of pigmentation treatment."
+        },
+        {
+          "label": "Chemical peel per session",
+          "from": 2500,
+          "to": 4500,
+          "note": "4–8 sessions, every 2–4 weeks."
+        },
+        {
+          "label": "Laser toning course",
+          "from": 8000,
+          "to": 15000,
+          "note": "4–6 sessions, 2–4 weeks apart."
+        }
+      ],
+      "badge": "Peels + Laser"
+    },
+    {
+      "name": "Laser hair removal",
+      "from": 1500,
+      "to": 30000,
+      "iconPath": "laser",
+      "description": "Long-term hair reduction for all skin types. 6–8 sessions spaced 4–6 weeks give visible, lasting results.",
+      "levels": [
+        {
+          "label": "Small area (upper lip / chin)",
+          "from": 1500,
+          "to": 2500,
+          "note": "Per session."
+        },
+        {
+          "label": "Medium area (underarms / arms)",
+          "from": 3000,
+          "to": 4500,
+          "note": "Per session."
+        },
+        {
+          "label": "Full legs or full back course (6 sessions)",
+          "from": 18000,
+          "to": 30000,
+          "note": "Course price. 4–6 weeks apart."
+        }
+      ],
+      "badge": "FDA-Approved Laser"
+    },
+    {
+      "name": "Chemical peels",
+      "from": 1500,
+      "to": 15000,
+      "iconPath": "peel",
+      "description": "Peels chosen for Indian skin tones. Brightens skin, fades marks and controls acne. Patch test included.",
+      "levels": [
+        {
+          "label": "Superficial peel (glycolic / salicylic)",
+          "from": 1500,
+          "to": 3500,
+          "note": "Per session. Zero downtime."
+        },
+        {
+          "label": "Medium peel (TCA / Jessner)",
+          "from": 4000,
+          "to": 6000,
+          "note": "Per session. 3–5 days of flaking."
+        },
+        {
+          "label": "4-session course",
+          "from": 9000,
+          "to": 15000,
+          "note": "Saves about 20% versus single sessions."
+        }
+      ],
+      "badge": "Per Session"
+    },
+    {
+      "name": "Hair fall & hair regrowth (PRP)",
+      "from": 4000,
+      "to": 24000,
+      "iconPath": "hair",
+      "description": "Blood test first, then PRP and medicines based on the cause — hormonal, nutritional or genetic.",
+      "levels": [
+        {
+          "label": "Medication plan",
+          "from": 500,
+          "to": 1500,
+          "note": "Per month. Requires blood test."
+        },
+        {
+          "label": "PRP single session",
+          "from": 4500,
+          "to": 7000,
+          "note": "60 minutes. 3–4 sessions recommended."
+        },
+        {
+          "label": "PRP course (3–4 sessions)",
+          "from": 13500,
+          "to": 24000,
+          "note": "Sessions 4–6 weeks apart."
+        }
+      ],
+      "badge": "Blood-Tested"
+    },
+    {
+      "name": "Warts, moles & skin tags",
+      "from": 1500,
+      "to": 8000,
+      "iconPath": "checkup",
+      "description": "Quick in-clinic removal. Moles are sent for testing when they look unusual.",
+      "levels": [
+        {
+          "label": "Cryotherapy per wart",
+          "from": 1500,
+          "to": 2500,
+          "note": "Freezes the wart off. May need 2–3 sessions."
+        },
+        {
+          "label": "Laser or excision for mole",
+          "from": 5000,
+          "to": 8000,
+          "note": "Local anaesthesia. Sample sent for testing if needed."
+        }
+      ],
+      "badge": "Cryo + Laser"
+    },
+    {
+      "name": "Eczema, psoriasis & scalp care",
+      "from": 2000,
+      "to": 6000,
+      "iconPath": "skin",
+      "description": "Long-term skin conditions need a plan you can follow. We write it down for you.",
+      "levels": [
+        {
+          "label": "Management plan",
+          "from": 2000,
+          "to": 4000,
+          "note": "Medication + routine. Follow-up in 2–4 weeks."
+        },
+        {
+          "label": "Scalp treatment per session",
+          "from": 3000,
+          "to": 5000,
+          "note": "For scalp eczema and severe dandruff."
+        }
+      ],
+      "badge": "Management Plan"
+    },
+    {
+      "name": "Anti-ageing — botox & fillers",
+      "from": 15000,
+      "to": 40000,
+      "iconPath": "sparkle",
+      "description": "Natural-looking results, injected by a dermatologist. We discuss your goal and stop at the point that looks like you.",
+      "levels": [
+        {
+          "label": "Botox per area",
+          "from": 15000,
+          "to": 25000,
+          "note": "Results in 7–10 days. Lasts 4–6 months."
+        },
+        {
+          "label": "Dermal filler per ml",
+          "from": 25000,
+          "to": 40000,
+          "note": "Lip, cheek or jawline. No downtime."
+        }
+      ],
+      "badge": "Doctor-Performed"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many sessions will I need?",
+      "a": "It depends on the problem. Acne usually needs 4–6 peels. Pigmentation takes 4–8 sessions. Laser hair removal needs 6–8 sessions spaced 4–6 weeks. Your doctor gives you a number at the first consultation."
+    },
+    {
+      "q": "Is it safe for dark Indian skin?",
+      "a": "Yes. We choose peels and laser settings for Fitzpatrick IV–V skin — the safest approach for Indian skin tones."
+    },
+    {
+      "q": "Will it scar?",
+      "a": "No. These treatments are designed to heal the skin. When a mole or wart is removed, we take extra care to minimise marks."
+    },
+    {
+      "q": "Is there any downtime?",
+      "a": "Light peels flake for 2–3 days. Medium peels need 3–5 days of heal time. Laser hair removal has no downtime."
+    },
+    {
+      "q": "When will I see results?",
+      "a": "Pigmentation starts fading in 4–8 weeks. Hair gets thicker in 3–6 months with PRP. Your doctor sets a realistic timeline at the start."
+    },
+    {
+      "q": "Can I wear makeup after a peel?",
+      "a": "Wait 24 hours after light peels. We give written after-care with everything you need to know."
+    },
+    {
+      "q": "Is laser hair removal permanent?",
+      "a": "It gives long-term reduction — most patients see 70–90% less hair after a full course. A yearly touch-up keeps it that way."
+    },
+    {
+      "q": "What if my hair loss is genetic?",
+      "a": "Genetic hair loss is managed with medicines like minoxidil and finasteride, plus PRP. We test first, then treat the cause."
+    }
+  ],
+  "costFaqs": [
+    {
+      "q": "Why is pricing per session?",
+      "a": "Skin responds differently for everyone. You pay for the session, not a one-size-fits-all package. Sessions are 2–6 weeks apart."
+    },
+    {
+      "q": "Do packages expire?",
+      "a": "Course packages are valid for 3–6 months. Unused sessions can be transferred within the family."
+    },
+    {
+      "q": "Is a patch test included?",
+      "a": "Yes. We patch-test before your first peel or laser session — it is included in the price."
+    },
+    {
+      "q": "Can I combine treatments?",
+      "a": "Yes. Medicines, peels and laser often work together. Your doctor will suggest the right combination — never more than you need."
+    },
+    {
+      "q": "Do you take insurance?",
+      "a": "Cosmetic treatments are self-paid. For medical conditions like eczema, psoriasis or hair loss, we give cash receipts for reimbursement."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Acne that refused to clear for years. The doctor explained why and gave a plan with real costs. Six sessions later, my skin is finally calm."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "I asked for laser hair removal and got the full price upfront — per session, total course, everything. No hard sell at the end."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 4,
+      "text": "PRP for hair fall. Blood test first, then sessions. It took 4 months, but my hair is visibly thicker at the temples."
+    }
+  ],
+  "trustPoints": [
+    "MD Dermatology with 10+ years — injections and laser done by the doctor",
+    "Patch test included before every peel or laser session",
+    "Written after-care instructions with every treatment",
+    "Per-session pricing — you never pay for sessions you do not need",
+    "Blood tests before hair loss treatment, not guesswork"
+  ],
+  "photos": {
+    "doctor": "doctor.webp",
+    "clinic": "hero.webp",
+    "hero": "hero.webp",
+    "tour": [
+      "tour-1.webp",
+      "tour-2.webp",
+      "tour-3.webp",
+      "tour-4.webp",
+      "tour-5.webp"
+    ],
+    "contact": "contact.webp",
+    "treatments": [
+      "t-polish.webp",
+      "t-acne.webp",
+      "t-pigment.webp",
+      "t-laser.webp",
+      "t-cosmetic.webp",
+      "t-hair.webp",
+      "t-laser.webp",
+      "t-hair.webp",
+      "t-cosmetic.webp"
+    ]
+  }
+}

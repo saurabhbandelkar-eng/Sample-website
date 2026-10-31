@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://powai-smile.demo.in/sitemap.xml

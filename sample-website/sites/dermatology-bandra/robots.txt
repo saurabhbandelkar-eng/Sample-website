@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bandra-skin-hair.demo.in/sitemap.xml

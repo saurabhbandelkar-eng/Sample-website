@@ -1,0 +1,385 @@
+{
+  "slug": "physio-andheri",
+  "nicheType": "physio",
+  "clinicName": "Andheri Physio Care",
+  "clinicShortName": "Andheri Physio Care",
+  "doctorName": "Dr. Rajesh Menon",
+  "doctorCredentials": "MPT (Musculoskeletal Sciences), Certified Sports Physiotherapist",
+  "nicheLabel": "Physiotherapy centre",
+  "schemaType": "Physiotherapist",
+  "medicalSpecialty": "Physiotherapy",
+  "siteUrl": "https://andheri-physio.demo.in",
+  "phoneDisplay": "98200 78901",
+  "phoneIntl": "+919820078901",
+  "email": "care@andheri-physio.demo.in",
+  "address": "3rd Floor, Indira Tower, J.V. Road, Andheri East, Mumbai, Maharashtra 400069",
+  "locality": "Andheri East",
+  "city": "Mumbai",
+  "pincode": "400069",
+  "landmark": "Near Andheri railway station",
+  "directions": "5 minutes from Andheri railway station and 8 minutes from Andheri airport. Landmark: Indira Tower, opposite the police station.",
+  "areasServed": [
+    "Andheri",
+    "Andheri East",
+    "Andheri West",
+    "Vile Parle",
+    "Juhu",
+    "Marol",
+    "Kurla",
+    "SEEPZ"
+  ],
+  "latitude": 19.0887,
+  "longitude": 72.8454,
+  "brandColors": {
+    "primary": "#3B5E45",
+    "accent": "#A9843B"
+  },
+  "heroHeading": "Physiotherapy in Andheri — back pain, sports injury, post-surgery rehab",
+  "heroSubhead": "One-to-one sessions with a certified physiotherapist. Home visits available. See session and package prices before you book.",
+  "hours": [
+    {
+      "days": "Monday–Saturday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "days": "Sunday",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
+  "treatments": [
+    {
+      "name": "First assessment",
+      "from": 800,
+      "to": 1800,
+      "iconPath": "checkup",
+      "description": "We find the real cause before treating. Movement tests, posture check and a written plan you can follow at home.",
+      "levels": [
+        {
+          "label": "Follow-up assessment",
+          "from": 800,
+          "to": 1200,
+          "note": "20–30 minutes."
+        },
+        {
+          "label": "First assessment (45 min)",
+          "from": 1200,
+          "to": 1500,
+          "note": "Movement tests, posture check, written rehab plan."
+        }
+      ],
+      "badge": "45 Minutes"
+    },
+    {
+      "name": "Back pain & spine care",
+      "from": 800,
+      "to": 18000,
+      "iconPath": "back",
+      "description": "Disc bulge, sprain and posture pain. Manual therapy, exercise and posture correction — with a home programme.",
+      "levels": [
+        {
+          "label": "Single session",
+          "from": 800,
+          "to": 1200,
+          "note": "45–60 minutes."
+        },
+        {
+          "label": "10-session package",
+          "from": 7000,
+          "to": 10000,
+          "note": "Saves 12–15% versus single sessions."
+        },
+        {
+          "label": "20-session package",
+          "from": 13000,
+          "to": 18000,
+          "note": "For chronic back pain. Saves about 18%."
+        }
+      ],
+      "badge": "Spine Specialist"
+    },
+    {
+      "name": "Neck & shoulder pain",
+      "from": 800,
+      "to": 18000,
+      "iconPath": "joint",
+      "description": "Text neck, stiffness and headaches. We treat the neck and show you desk stretches that fix the cause.",
+      "levels": [
+        {
+          "label": "Single session",
+          "from": 800,
+          "to": 1200,
+          "note": "45–60 minutes."
+        },
+        {
+          "label": "10-session package",
+          "from": 7000,
+          "to": 10000,
+          "note": "Saves 12–15% versus single sessions."
+        },
+        {
+          "label": "20-session package",
+          "from": 13000,
+          "to": 18000,
+          "note": "For chronic stiffness and headaches."
+        }
+      ],
+      "badge": "Manual Therapy"
+    },
+    {
+      "name": "Sports injury rehab",
+      "from": 1200,
+      "to": 28000,
+      "iconPath": "knee",
+      "description": "Sprains, ACL rehab, tennis elbow. We rehab you to match, then to move — with strength tests that prove you are ready.",
+      "levels": [
+        {
+          "label": "Single session",
+          "from": 1200,
+          "to": 1600,
+          "note": "45–60 minutes."
+        },
+        {
+          "label": "10-session package",
+          "from": 10000,
+          "to": 14000,
+          "note": "Saves 12–15% versus single sessions."
+        },
+        {
+          "label": "Return-to-sport program",
+          "from": 18000,
+          "to": 28000,
+          "note": "Testing included. Gets you back to the field safely."
+        }
+      ],
+      "badge": "Return-to-Sport"
+    },
+    {
+      "name": "Post-surgery rehab",
+      "from": 1200,
+      "to": 28000,
+      "iconPath": "knee",
+      "description": "Knee replacement, shoulder surgery, ligament repair. We start safe, build strength and get you walking or lifting again.",
+      "levels": [
+        {
+          "label": "Single session",
+          "from": 1200,
+          "to": 1600,
+          "note": "45–60 minutes."
+        },
+        {
+          "label": "Rehab package (12–20 sessions)",
+          "from": 13000,
+          "to": 28000,
+          "note": "For knee or shoulder surgery. Includes discharge report."
+        }
+      ],
+      "badge": "Rehab Plan"
+    },
+    {
+      "name": "Home visits",
+      "from": 900,
+      "to": 3500,
+      "iconPath": "home",
+      "description": "We come to your home — same treatment, your bed, your schedule. We bring the equipment with us.",
+      "levels": [
+        {
+          "label": "General home visit",
+          "from": 900,
+          "to": 1500,
+          "note": "Per session. Travel included within 5 km."
+        },
+        {
+          "label": "Specialist home visit",
+          "from": 1500,
+          "to": 2000,
+          "note": "Sports or post-surgery rehab at home."
+        },
+        {
+          "label": "Premium / far-area visit",
+          "from": 2000,
+          "to": 3500,
+          "note": "South Mumbai and beyond 5 km."
+        }
+      ],
+      "badge": "7 Days a Week"
+    },
+    {
+      "name": "Joint stiffness & arthritis",
+      "from": 800,
+      "to": 10000,
+      "iconPath": "joint",
+      "description": "Frozen shoulder, knee pain, hand stiffness. Gentle movement therapy to keep joints working without pain.",
+      "levels": [
+        {
+          "label": "Single session",
+          "from": 800,
+          "to": 1200,
+          "note": "45–60 minutes."
+        },
+        {
+          "label": "10-session package",
+          "from": 7000,
+          "to": 10000,
+          "note": "Saves 12–15% versus single sessions."
+        }
+      ],
+      "badge": "Hands-On Care"
+    },
+    {
+      "name": "Posture & ergonomics",
+      "from": 1500,
+      "to": 3000,
+      "iconPath": "checkup",
+      "description": "Workstation assessment and fixes for laptop and office workers. One visit, practical changes.",
+      "levels": [
+        {
+          "label": "Ergonomic assessment",
+          "from": 1500,
+          "to": 2500,
+          "note": "60 minutes. Workstation check + fixes."
+        },
+        {
+          "label": "Workplace plan",
+          "from": 2500,
+          "to": 3000,
+          "note": "Written plan for your office setup."
+        }
+      ],
+      "badge": "Ergonomics Plan"
+    },
+    {
+      "name": "Massage & soft tissue therapy",
+      "from": 1000,
+      "to": 6000,
+      "iconPath": "session",
+      "description": "Relaxation and sports massage by a licensed therapist. Dry needling for stubborn trigger points.",
+      "levels": [
+        {
+          "label": "Massage session (45 min)",
+          "from": 1000,
+          "to": 1500,
+          "note": "By a licensed therapist."
+        },
+        {
+          "label": "Dry needling add-on",
+          "from": 300,
+          "to": 500,
+          "note": "Added to a therapy session."
+        },
+        {
+          "label": "5-session package",
+          "from": 4500,
+          "to": 6000,
+          "note": "Saves about 15%."
+        }
+      ],
+      "badge": "45-Minute Session"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long until I can return to work?",
+      "a": "Most back pain patients return to desk work in 2–4 weeks with 6–8 sessions. Surgery rehab takes longer — we give you a week-by-week target."
+    },
+    {
+      "q": "Do you come home?",
+      "a": "Yes. We do home visits 7 days a week in Andheri and nearby areas. Same physiotherapist, same treatment — we bring the equipment."
+    },
+    {
+      "q": "How long is one session?",
+      "a": "45–60 minutes. The first assessment is 45 minutes. Home visits are 45–60 minutes depending on your condition."
+    },
+    {
+      "q": "Is physiotherapy painful?",
+      "a": "Some stretching is uncomfortable — that is normal. We work within your pain limit and explain every step. Pain should never be sharp."
+    },
+    {
+      "q": "When should I start after surgery?",
+      "a": "Usually 3–7 days after, with your surgeon's permission. We get the discharge summary and start safely."
+    },
+    {
+      "q": "How many sessions will I need?",
+      "a": "Most problems improve in 6–12 sessions. Chronic pain and post-surgery rehab need 12–20. You will know the plan at the first assessment."
+    },
+    {
+      "q": "What should I wear?",
+      "a": "Loose, comfortable clothes and a pair of shorts. You will move, so skip tight jeans and heavy jewellery."
+    },
+    {
+      "q": "Do you treat sports injuries?",
+      "a": "Yes. We run return-to-sport programs with strength tests, so you know exactly when you can play again."
+    }
+  ],
+  "costFaqs": [
+    {
+      "q": "Should I take sessions or a package?",
+      "a": "Packages save 12–18% and keep you consistent. If your condition is short-term, pay per session — no pressure to buy a package."
+    },
+    {
+      "q": "Are there extra charges for home visits?",
+      "a": "No. Travel is included within 5 km of Andheri. Beyond that, we confirm a small travel fee before booking."
+    },
+    {
+      "q": "What about cancellation?",
+      "a": "Free cancellation up to 2 hours before your session. You can reschedule by phone or WhatsApp."
+    },
+    {
+      "q": "Can I claim insurance?",
+      "a": "We give cash receipts for all sessions. Most insurers reimburse physiotherapy under outpatient cover — check with your insurer."
+    },
+    {
+      "q": "Is the first assessment required?",
+      "a": "Yes. We assess before treating — it keeps your treatment safe and stops you paying for sessions that do not fit your condition."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Back pain that would not go away after working from home. Six sessions and my posture is fixed. The home routine they gave me actually works."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 5,
+      "text": "Knee rehab after surgery. They told me exactly which weeks I would walk, climb stairs and drive. I hit every target on schedule."
+    },
+    {
+      "name": "Sample patient — placeholder",
+      "rating": 4,
+      "text": "Home visits for my mother after her knee replacement. Same therapist every time, and they brought the table with them. Worth it."
+    }
+  ],
+  "trustPoints": [
+    "One-to-one sessions — the same physiotherapist every visit",
+    "Home visits in Andheri and nearby areas, 7 days a week",
+    "Written rehab plan with week-by-week targets",
+    "Post-surgery rehab with discharge reports and surgeon coordination",
+    "Packages save 12–18% — or pay per session, no pressure"
+  ],
+  "photos": {
+    "doctor": "doctor.webp",
+    "clinic": "hero.webp",
+    "hero": "hero.webp",
+    "tour": [
+      "tour-1.webp",
+      "tour-2.webp",
+      "tour-3.webp",
+      "tour-4.webp",
+      "tour-5.webp"
+    ],
+    "contact": "contact.webp",
+    "treatments": [
+      "t-elderly.webp",
+      "t-back.webp",
+      "t-neck.webp",
+      "t-sports.webp",
+      "t-surgery.webp",
+      "t-home.webp",
+      "t-joint.webp",
+      "t-posture.webp",
+      "t-massage.webp"
+    ]
+  }
+}
